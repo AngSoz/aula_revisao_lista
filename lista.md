@@ -1,6 +1,3 @@
-
-
-```markdown
 # Lista e  introdução às Estruturas de Dados em Python
 
 Este documento explica várias estruturas de dados e operações comuns em listas utilizando Python. Ele cobre listas, loops, pilhas (LIFO) e filas (FIFO) com exemplos.
@@ -198,10 +195,3 @@ print(fila)   # Saída: [2, 3]
 
 Este documento apresentou uma variedade de conceitos e operações que podem ser realizadas com listas em Python, além de estruturas para pilhas e filas. Entender essas estruturas de dados é fundamental para a programação e o desenvolvimento de algoritmos em Python.
 ```
-
-### Como Usar
-
-- **Copie e cole** o conteúdo acima em um arquivo de texto ou um editor de Markdown.
-- **Visualização**: Você pode visualizar o Markdown usando um editor que suporte esta formatação ou em plataformas como GitHub, que renderizam automaticamente arquivos Markdown (com extensão `.md`).
-
-Essas explicações e exemplos permitem que você entenda cada aspecto do código apresentado na aula. Se precisar de mais informações ou ajustes, fique à vontade para pedir!
